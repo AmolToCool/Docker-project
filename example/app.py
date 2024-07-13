@@ -1,2 +1,2 @@
-print("Hello World")
-print("GOOD DAY!!!")
+print("Welcome to Goa Singham!!!") 
+
